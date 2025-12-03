@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 18
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Class-Path: ./
+Rsrc-Main-Class: com.javarush.games.racer.RacerGame
+
